@@ -1,0 +1,9 @@
+[package]
+name = "issue-next-gen-not-working-with-const-value-in-subtype"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+next-gen = "0.1.1"
